@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "framework7",
+  "short_name": "framework7",
+  "version": "com.ssahmadtijani.framework7",
+  "description": "A basic Framework7 template for PhoneGap.",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
